@@ -1,4 +1,4 @@
-* Put a plan for the flow of the project 
-* Set the start/end date for the project
-* Continually monitoring the project's progress status
-* Clarify all of what about the budget to the team members 
+* Choose the team members carefully
+* Organize the team and put the roles and responsibilities for every member
+* Motivate the team members
+* Clarify all things related to the bugget to the team members
